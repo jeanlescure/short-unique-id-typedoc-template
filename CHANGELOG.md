@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.3](https://github.com/jeanlescure/short_uuid_typedoc_template/compare/v2.0.2...v2.0.3) (2021-05-04)
+
+
+### Bug Fixes
+
+* 4.2.x instantiation error ([99c63c1](https://github.com/jeanlescure/short_uuid_typedoc_template/commit/99c63c1ec93936eb48177f2cafa7185a99fafc3c))
+
 ### [2.0.2](https://github.com/jeanlescure/short_uuid_typedoc_template/compare/v2.0.1...v2.0.2) (2021-05-04)
 
 
