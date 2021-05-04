@@ -1,0 +1,58 @@
+// Default light theme
+:root {
+    --color-background: #ededfd;
+    --color-text: #222;
+    --color-text-aside: #808080;
+    --color-link: #4da6ff;
+
+    --color-menu-divider: #eee;
+    --color-menu-divider-focus: #000;
+    --color-menu-label: #808080;
+
+    --color-panel: #fff;
+    --color-panel-divider: #eee;
+
+    --color-comment-tag: #f29766;
+    --color-comment-tag-text: #fff;
+
+    --color-code-background: #ddd;
+
+    --color-ts: #9600ff;
+    --color-ts-interface: #7da01f;
+    --color-ts-enum: #cc9900;
+    --color-ts-class: #4da6ff;
+    --color-ts-private: #808080;
+
+    --color-toolbar: #fff;
+    --color-toolbar-text: #333;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --color-background: #404144;
+        --color-text: #fff;
+        --color-text-aside: #bebebf;
+        --color-link: #4da6ff;
+
+        --color-menu-divider: #777;
+        --color-menu-divider-focus: #000;
+        --color-menu-label: #bebebf;
+
+        --color-panel: #505254;
+        --color-panel-divider: #777;
+
+        --color-comment-tag: #f29766;
+        --color-comment-tag-text: #fff;
+
+        --color-code-background: #242424;
+
+        --color-ts: #ac36ff;
+        --color-ts-interface: #7da01f;
+        --color-ts-enum: #cc9900;
+        --color-ts-class: #4da6ff;
+        --color-ts-private: #bebebf;
+
+        --color-toolbar: #505254;
+        --color-toolbar-text: #ddd;
+    }
+}
