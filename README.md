@@ -1,19 +1,16 @@
-# Default themes for TypeDoc
+# TypeDoc theme for Short Unique ID
 
-This module contains the default themes of TypeDoc.
-Visit https://typedoc.org/ to learn more about TypeDoc.
+This module contains the default theme of [short-unique-id](https://github.com/jeanlescure/short-unique-id/).
+
+Visit [https://shortunique.id/](https://shortunique.id/) to view the theme live and learn more about this <a href="https://en.wikipedia.org/wiki/Open_source" target="_blank">open source</a> project.
 
 ## Contributing
 
-Contributions are welcome and appreciated. You can find TypeDoc on GitHub, feel free to start
-an issue or create a pull requests:<br>
-[https://github.com/TypeStrong/typedoc](https://github.com/TypeStrong/typedoc)
-
-To use a local build of this project, run the `npm pack` command in this directory. Then
-in the project where you want to use your local build run `npm install ../path/to/typedoc-default-themes-VERSION.tgz`
+Contributions are welcome and appreciated.
 
 ## License
 
-Copyright (c) 2015 [Sebastian Lenz](http://www.sebastian-lenz.de).<br>
-Copyright (c) 2016-2020 [TypeDoc Contributors](https://github.com/TypeStrong/typedoc/graphs/contributors).<br>
+Copyright (c) 2015 [Sebastian Lenz](http://www.sebastian-lenz.de).<br/>
+Copyright (c) 2016-2019 [TypeDoc Contributors](https://github.com/TypeStrong/typedoc/graphs/contributors).<br/>
+Copyright (c) 2018-2021 [Short Unique ID Contributors](https://github.com/jeanlescure/short-unique-id/graphs/contributors).<br/>
 Licensed under the Apache License 2.0.
